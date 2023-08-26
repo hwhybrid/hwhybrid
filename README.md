@@ -4,7 +4,7 @@
 
 - 📚💻 I'm currently a virtual coding instructor specializing in project-based web development and cloud fundamentals for organizations and programs such as Code First Girls, Coding Black Females, ReDI School of Digital Integration and AWS re:Start.
 
-- ⚛️ I'm really passionate about digital literacy and actively involved in communities such as Women Who Code, Google's Tech Equity Collective, Women Techmakers, and the AWS All Builders Welcome community.
+- ⚛️ I'm really passionate about digital literacy and actively involved in communities such as Women Who Code and Google's Women Techmakers.
 
 - I'm honoured to be the 2023 Women Who Code (Cloud) Leadership fellow. Through this fellowship I'm responsible for curating cloud technology-focused panels, workshops, lightning talks, career development opportunities, and resources to connect and empower the WWCode global community of over 300 thousand members in 147 countries.
 <div align="center"><a href="https://www.linkedin.com/posts/women-who-code_wwcode-wwcode-womenintech-activity-7100192989142011904-LPZQ?utm_source=share&utm_medium=member_desktop"><img align="center" src="https://media.licdn.com/dms/image/D5610AQHGIyd4tpQAuw/image-shrink_1280/0/1692817923502?e=1693472400&v=beta&t=3H3BJRzmiBharBPAxH5XvtV8rm8pKxCrMwhQFojzQTg" style="width: 50%"></a>
