@@ -6,7 +6,7 @@
 
 - ⚛️ I'm really passionate about digital literacy and actively involved in communities such as Women Who Code and Google's Women Techmakers.
 
-- I'm honoured to be the 2023 Women Who Code (Cloud) Leadership fellow. Through this fellowship I'm responsible for curating cloud technology-focused panels, workshops, lightning talks, career development opportunities, and resources to connect and empower the WWCode global community of over three hundred thousand members in 147 countries.
+- I'm currently the 2023/24 Women Who Code (Cloud) Leadership fellow. Through this fellowship I'm responsible for curating cloud technology-focused panels, workshops, lightning talks, career development opportunities, and resources to connect and empower the WWCode global community of over three hundred thousand members in 147 countries.
 <div align="center"><img align="center" src="https://media.licdn.com/dms/image/D5610AQHGIyd4tpQAuw/image-shrink_1280/0/1692817923502?e=1695614400&v=beta&t=bJB6C-GjfhBxOzTL2rBgiTt6RSDNIUOoSEJrcsf6fQA" style="width: 35%"></a>
 <p>To learn more about WWCode click <a href="https://www.womenwhocode.com/about/">HERE.</a>. To get involved, click <a href="https://www.womenwhocode.com/volunteer"/>HERE.</a></p>
 </div>   
