@@ -2,18 +2,18 @@
 ### Hi there, I'm Hope 👋🏾
 - 🔭 I've spent most of my professional life in multimedia production before expanding into tech as a full-stack software developer. 
 
-- 📚💻 I'm a virtual coding instructor specializing in project-based web development and cloud fundamentals for organizations and programs such as Pluralsight, Code First Girls, Coding Black Females, and ReDI School of Digital Integration.
+- 📚💻 I'm a virtual coding instructor specializing in project-based web development and cloud fundamentals for organizations and programs such as Beam Institute of Technology, Pluralsight, Code First Girls, Coding Black Females, Frauenloop and ReDI School of Digital Integration.
 
-- ⚛️ I'm really passionate about digital literacy and actively involved in communities such as Women Who Code and Google's Women Techmakers.
+- ⚛️ I'm really passionate about digital literacy and actively involved in communities such as Google's Women Techmakers and the very much missed Women Who Code.
 
-- I'm currently the 2023/24 Women Who Code (Cloud) Leadership fellow. Through this fellowship I'm responsible for curating cloud technology-focused panels, workshops, lightning talks, career development opportunities, and resources to connect and empower the WWCode global community of over three hundred thousand members in 147 countries.
+- I served as the 2023/24 Women Who Code Cloud Leadership Fellow. Through this fellowship I was responsible for curating cloud technology-focused panels, workshops, lightning talks, career development opportunities, and resources to connect and empower the WWCode global community of over three hundred thousand members in 147 countries.
 <div align="center"><img align="center" src="https://media.licdn.com/dms/image/D5610AQHGIyd4tpQAuw/image-shrink_1280/0/1692817923502?e=1695614400&v=beta&t=bJB6C-GjfhBxOzTL2rBgiTt6RSDNIUOoSEJrcsf6fQA" style="width: 35%"></a>
-<p>To learn more about WWCode click <a href="https://www.womenwhocode.com/about/">HERE.</a>. To get involved, click <a href="https://www.womenwhocode.com/volunteer"/>HERE.</a></p>
+
 </div>   
 
 - 📝✍🏾 I occasionally write technical articles targeting beginner developers on platforms such as Educative.io and the Women Who Code blog. (samples: https://www.educative.io/answers/what-are-break-continue-and-pass-statements-in-python and https://www.womenwhocode.com/blog/exciting-new-features-in-google-s-material-design-google-i-o-keynote-2023)
 
-- 🤓🎨 I’m currently working on a full-stack web application that incorporates tech into my artistic explorations.
+- 🤓🎨 I’m currently working on a full-stack web application personal project that incorporates tech into my artistic explorations.
 
 - 🌍 I'm an aspiring polyglot and find learning languages to be a lovely metaphor for learning programming. Aside from English, I speak Yoruba, German, and basic French. I'm continually humbled by the Arabic alphabet but determined to get there! Advice or tips are certainly welcome 🥲.
 
